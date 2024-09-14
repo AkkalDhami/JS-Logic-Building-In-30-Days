@@ -1,4 +1,4 @@
-//? Write a program that finds the largest and smallest elements in an array.
+//? Write a program that find the largest and smallest elements in an array.
 
 let arr = [12, 2, 3, 45, 6];
 
