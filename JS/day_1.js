@@ -10,14 +10,14 @@ a = a - b;
 console.log(`After swap: a = ${a}, b = ${b}`);
 
 //? 2. Generate the Fibonacci sequence up to a given number using a loop.
-let n1 = 0;
-let n2 = 1;
+let num1 = 0;
+let num2 = 1;
 
 for (let i = 0; i < 10; i++) {
-  console.log(n1);
-  let n3 = n1 + n2;
-  n1 = n2;
-  n2 = n3;
+  console.log(num1);
+  let num3 = num1 + num2;
+  num1 = num2;
+  num2 = num3;
 }
 
 //* Alternative Method:
