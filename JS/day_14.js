@@ -1,4 +1,4 @@
-//? Writa a finction that shorten a string to a specific length and add ... at the end.
+//? Writa a function that shorten a string to a specific length and add ... at the end.
 
 function shortenString(str, maxLength) {
   if (str.length > maxLength) {
