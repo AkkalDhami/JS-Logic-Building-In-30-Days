@@ -9,7 +9,7 @@ let sumProduct = (num) => {
 };
 console.log(sumProduct(10)); // Output: 23 (3 + 5 + 6 + 9)
 
-//? ALTERNATIVE METHOD using ES6
+//? ALTERNATIVE METHOD
 
 const sumProduct2 = (num) =>
   [...Array(num).keys()]
